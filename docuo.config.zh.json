@@ -2651,37 +2651,13 @@
       }
     },
     {
-      "id": "solution_ktv_ios_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-android-zh",
+      "path": "solutions/online-ktv/android",
+      "routeBasePath": "online-ktv-android",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
-          "name": "在线 KTV",
-          "tag": ""
-        },
-        "category": [
-          "解决方案",
-          "社交娱乐"
-        ],
-        "platform": "iOS: Objective-C"
-      },
-      "askAi": {
-        "questions": [
-          "在线KTV有哪些玩法？",
-          "怎么实现一个房间多人合唱？"
-        ]
-      }
-    },
-    {
-      "id": "solution_ktv_android_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
-      "locale": "zh",
-      "navigationInfo": {
-        "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2693,13 +2669,31 @@
       }
     },
     {
-      "id": "solution_ktv_windows_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-ios-zh",
+      "path": "solutions/online-ktv/ios",
+      "routeBasePath": "online-ktv-ios",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
+          "name": "在线 KTV",
+          "tag": ""
+        },
+        "category": [
+          "解决方案",
+          "社交娱乐"
+        ],
+        "platform": "iOS: Objective-C"
+      }
+    },
+    {
+      "id": "online-ktv-windows-zh",
+      "path": "solutions/online-ktv/windows",
+      "routeBasePath": "online-ktv-windows",
+      "locale": "zh",
+      "navigationInfo": {
+        "group": {
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2711,13 +2705,13 @@
       }
     },
     {
-      "id": "solution_ktv_linux_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-linux-zh",
+      "path": "solutions/online-ktv/linux",
+      "routeBasePath": "online-ktv-linux",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2729,13 +2723,13 @@
       }
     },
     {
-      "id": "solution_ktv_web_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-web-zh",
+      "path": "solutions/online-ktv/web",
+      "routeBasePath": "online-ktv-web",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2747,13 +2741,13 @@
       }
     },
     {
-      "id": "solution_ktv_flutter_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-flutter-zh",
+      "path": "solutions/online-ktv/flutter",
+      "routeBasePath": "online-ktv-flutter",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2765,13 +2759,13 @@
       }
     },
     {
-      "id": "solution_ktv_electron_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-electron-zh",
+      "path": "solutions/online-ktv/electron",
+      "routeBasePath": "online-ktv-electron",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2783,13 +2777,13 @@
       }
     },
     {
-      "id": "solution_ktv_u3d_zh",
-      "path": "https://doc-zh.zego.im/article/15040",
-      "routeBasePath": "",
+      "id": "online-ktv-u3d-zh",
+      "path": "solutions/online-ktv/u3d",
+      "routeBasePath": "online-ktv-u3d",
       "locale": "zh",
       "navigationInfo": {
         "group": {
-          "id": "solution_ktv_zh",
+          "id": "solution-ktv-zh",
           "name": "在线 KTV",
           "tag": ""
         },
@@ -2798,6 +2792,42 @@
           "社交娱乐"
         ],
         "platform": "Unity3D: C#"
+      }
+    },
+    {
+      "id": "online-ktv-rn-zh",
+      "path": "solutions/online-ktv/rn",
+      "routeBasePath": "online-ktv-rn",
+      "locale": "zh",
+      "navigationInfo": {
+        "group": {
+          "id": "solution-ktv-zh",
+          "name": "在线 KTV",
+          "tag": ""
+        },
+        "category": [
+          "解决方案",
+          "社交娱乐"
+        ],
+        "platform": "React Native: JS"
+      }
+    },
+    {
+      "id": "online-ktv-server-zh",
+      "path": "solutions/online-ktv/server",
+      "routeBasePath": "online-ktv-server",
+      "locale": "zh",
+      "navigationInfo": {
+        "group": {
+          "id": "solution-ktv-zh",
+          "name": "在线 KTV",
+          "tag": ""
+        },
+        "category": [
+          "解决方案",
+          "社交娱乐"
+        ],
+        "platform": "服务端 API"
       }
     },
     {
